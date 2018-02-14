@@ -16,11 +16,13 @@ Follow an "office hours" approach: high-accessibility, low-pressure, dedicated w
 
 ## Promotion
 
-This collective aims to start local communities. We encourage reaching out to places that aren't dev-centric (e.g. a message board for videographers) or places that are in orbit (e.g. a project manager Slack group). Some cities have [event calendars](https://calagator.org/) to post to. When using a third-party event promotion (e.g. Eventbrite or Meetups), use succinct copy and include the website in full (https://askadev.org).
+This collective aims to start local communities. We encourage reaching out to places that aren't dev-centric (e.g. a message board for videographers) or places that are in orbit (e.g. a project manager Slack group). Some cities have [event calendars](https://calagator.org/) to post to. When using a third-party service (e.g. Eventbrite), use succinct copy and include the website in full (https://askadev.org). We utilize an [organization Meetup account](https://www.meetup.com/Ask-A-Dev/) for cross-promotion.
 
 In-person is a great way to promote; not every dev at a talk or hosted meetup is an expert, and they wouldn't be there if they weren't trying to learn already.
 
-Stickers and business cards will be sent to chapter founders, and more can be sent on request. As a collective, we'll offer as much help as we can, but we can't guarantee promoting an event besides listing it on the site. We’ll connect you with other mentors in the same city to coordinate ideal spots.
+Stickers and business cards will be sent to chapter founders and more can be sent on request. As a collective, we'll offer as much help as we can, but we can't guarantee promoting an event besides listing it on the site. We’ll connect you with other mentors in the same city to coordinate ideal spots.
+
+Brand assets (including logo, sample poster, and business card template) and standards are available in [a public Figma file](https://www.figma.com/file/VQtbS1atoQp5ooQBi6iwl6gC/Ask-a-Dev-Brand-and-Assets).
 
 ## Space
 
@@ -43,3 +45,7 @@ Max your time per person to 15 minutes if there’s backup. If you hit that thre
 ### Sample copy for a description?
 
 > Whether you're a new programmer, a veteran exploring a new language, or a tech-adverse soul lost in a sea of WYSIWYG site generators, we're here to help. Join us for a few hours every other week as we answer your frustrations.
+
+### How do you ensure quality?
+
+Ideally, two or more mentors are present at every event to keep each other in check. We also provide a means for participants to [contact us](https://askadev.org#feedback) to report bad behavior/low quality advice.
