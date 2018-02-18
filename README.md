@@ -28,7 +28,7 @@ Brand assets (including logo, sample poster, and business card template) and sta
 
 We prefer public, accessible places with reliable WiFi. Cafes and university libraries are perfect. Feel free to check ahead and ensure there's space before setting up an event. If it’s a business, please patronize them and encourage your participants to patronize. Always, always respect others around you.
 
-We are not affiliated with any organization or establishment, and we intend to stay that way. We're not going to be sponsored. While meetings can occur in a loaned space - like an agency's common area - we'd like to avoid the pressure of coming to a dedicated building. Public spaces are relaxed, allow serendipitous walk ups, and have no ulterior agenda.
+While meetings can occur in a loaned space - like an agency's common area - we aim to avoid the pressure of coming to a dedicated building. Public spaces are relaxed, allow serendipitous walk ups, and have no ulterior agenda.
 
 When you're hosting a session, ensure the Ask a Dev logo is prominently displayed (e.g. business card, sticker, or tablet). Like a lighthouse.
 
