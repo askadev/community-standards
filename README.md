@@ -18,7 +18,14 @@ Follow an "office hours" approach: high-accessibility, low-pressure, dedicated w
 
 This collective aims to start local communities. We encourage reaching out to places that aren't dev-centric (e.g. a message board for videographers) or places that are in orbit (e.g. a project manager Slack group). Some cities have [event calendars](https://calagator.org/) to post to. When using a third-party service (e.g. Eventbrite), use succinct copy and include the website in full (https://askadev.org). We utilize an [organization Meetup account](https://www.meetup.com/Ask-A-Dev/) for cross-promotion.
 
-In-person is a great way to promote; not every dev at a talk or hosted meetup is an expert, and they wouldn't be there if they weren't trying to learn already.
+In-person is a great way to promote; not every dev at a talk or hosted meetup is an expert, and they wouldn't be there if they weren't trying to learn already. Frequent other events in your city and [give talks]() at related meetups or code schools.
+
+When creating a new event, ensure it's listed:
+- [ ] On [askadev.org](https://askadev.org)
+- [ ] In the proper [Meetup](https://www.meetup.com/Ask-A-Dev/) group
+- [ ] On relevant community boards or other third-party services
+
+## Assets
 
 Stickers and business cards will be sent to chapter founders and more can be sent on request. As a collective, we'll offer as much help as we can, but we can't guarantee promoting an event besides listing it on the site. We’ll connect you with other mentors in the same city to coordinate ideal spots.
 
