@@ -39,7 +39,7 @@ While meetings can occur in a loaned space - like an agency's common area - we a
 
 When you're hosting a session, ensure the Ask a Dev logo is prominently displayed (e.g. business card, sticker, or tablet). Like a lighthouse.
 
-## Attendance
+## Attendance for Mentors
 
 When you say you're going to be there, be there. If you can't due to unforeseen circumstances, ensure that another mentor will be present. When you know far enough ahead of time, reschedule on all published channels. Contact leadership if need be. We have **zero-tolerance** for no shows.
 
