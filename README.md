@@ -18,11 +18,11 @@ Follow an "office hours" approach: high-accessibility, low-pressure, dedicated w
 
 This collective aims to start local communities. We encourage reaching out to places that aren't dev-centric (e.g. a message board for videographers) or places that are in orbit (e.g. a project manager Slack group). Some cities have [event calendars](https://calagator.org/) to post to. When using a third-party service (e.g. Eventbrite), use succinct copy and include the website in full (https://askadev.org). We utilize an [organization Meetup account](https://www.meetup.com/Ask-A-Dev/) for cross-promotion.
 
-In-person is a great way to promote; not every dev at a talk or hosted meetup is an expert, and they wouldn't be there if they weren't trying to learn already. Frequent other events in your city and [give talks]() at related meetups or code schools.
+In-person is a great way to promote; not every dev at a talk or hosted meetup is an expert, and they wouldn't be there if they weren't trying to learn already. Frequent other events in your city and [give talks](https://github.com/askadev/talks) at related meetups or code schools.
 
 When creating a new event, ensure it's listed:
 - [ ] On [askadev.org](https://askadev.org)
-- [ ] In the proper [Meetup](https://www.meetup.com/Ask-A-Dev/) group
+- [ ] In the proper [Meetup](https://www.meetup.com/Ask-A-Dev/) group; note what disciplines will be represented (e.g. Alice - Python, Java)
 - [ ] On relevant community boards or other third-party services
 
 ## Assets
