@@ -12,7 +12,15 @@ Ask a Dev is not responsible for any changes to code you touch or for any advice
 
 ## Format
 
-Follow an "office hours" approach: high-accessibility, low-pressure, dedicated window. There's no script to follow, no announcements to be made, no RSVPs to confirm. Simply be available for when you say you will be.
+Follow an "office hours" approach: high-accessibility, low-pressure, dedicated window.
+
+At the start of a meet-up, a mentor should give a welcome speech and explain the event. There's no script to follow, and no announcements to be made. Simply tell the attendees what to expect. (e.g. 'This is an 'office-hours' style event, and we're to help you with whatever issues you're having on your projects. The mentors here tonight are x, y, and z. Feel free to ask us any questions.') 
+
+Some chapters have had success with having each attendee tell the group what they're working on, and each mentor what they can help with. This helps the right attendees and mentors find each other, and promotes conversation among attendees from the start.
+
+At the very least, the mentors should all introduce themselves. (e.g. 'My name is Eric, and I can help you with x language and y framework.')
+
+ Most importantly, be available to help when you say you will be.
 
 ## Promotion
 
